@@ -1,0 +1,5 @@
+Earth,12742
+Mercury,9999
+RRR,1111
+Sun,1392000
+Venus,12100
