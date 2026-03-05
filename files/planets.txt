@@ -1,5 +1,0 @@
-Earth,12742
-Mercury,4870
-Sun,1392000
-Venus,666
-khkkh,666
